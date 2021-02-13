@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisisjoshu
+👋 Hi, I’m @thisisjoshu
 
 <!---
 thisisjoshu/thisisjoshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
